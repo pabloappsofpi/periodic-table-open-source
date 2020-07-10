@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Periodic Table Game Open Source",
+"productVersion": "0.1",
+"dataUrl": "Periodic Table.data.unityweb",
+"wasmCodeUrl": "Periodic Table.wasm.code.unityweb",
+"wasmFrameworkUrl": "Periodic Table.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
